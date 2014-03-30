@@ -19,11 +19,10 @@ _“We called this project, ‘You bet your company.’” - Robert Evans (Head 
  - Lessons learnt from the OS/360 project.
  - Collection of software management and construction essays.
  - Still relevant today.
-
+ - Available at [archive.org][archive_book].
 
 _"Some people have called the book the "bible of software engineering" [...] everybody quotes it, some people read it, and a few people go by it." - Fred Brooks 2005_
 
-Available at [archive.org][archive_book].
 
 
 # Causes
