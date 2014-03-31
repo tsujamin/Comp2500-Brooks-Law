@@ -91,17 +91,20 @@ _"Three workers require three times as much pairwise intercommunication as two; 
  - Adding persons to support roles (documentation/quality assurance) can be added with reduced ramp-up time
  - There is no silver bullet.
 
- _""More software projects have gone awry for lack of calendar time than for all other causes combined." - Fred Brooks_
+ _"More software projects have gone awry for lack of calendar time than for all other causes combined." - Fred Brooks_
 
 
 #References
 - [IBM Archives: Frederick P. Brooks, Jr][ibm_brooks]
+- [IBM 100: System 360][ibm_360]
 - [The Mythical Man Month (Essays on Software Engineering) - Fred Brooks 1975][archive_book]
 
 
 [links to]: references
 [ibm_brooks]: http://www-03.ibm.com/ibm/history/exhibits/builders/builders_brooksjr.html
 [archive_book]: https://archive.org/details/mythicalmanmonth00fred
+[ibm_360]: http://www-03.ibm.com/ibm/history/ibm100/us/en/icons/system360/words/
+
 
 [image]: links
 [perfect_project]: images/perfect-partitionable.png

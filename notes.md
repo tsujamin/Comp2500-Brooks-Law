@@ -76,8 +76,16 @@
    - Milestone B missed
    - Could have expected all stages delayed (18 mm left, add 6 men, still problem)
 
-   # Communication overheads
-    - As a project is partitioned into seperate tasks, teams must communicate between each other.
-    - As the number of tasks and members in each task increases, complex intercommunication begins to dominate development time
-    - Conferences between groups of stakeholders become a nightmare!
-    - Can counteract division of work or addition of persons (diagram)
+# Communication overheads
+  - As a project is partitioned into seperate tasks, teams must communicate between each other.
+  - As the number of tasks and members in each task increases, complex intercommunication begins to dominate development time
+  - Conferences between groups of stakeholders become a nightmare!
+  - Can counteract division of work or addition of persons (diagram)
+
+ # Solutions:
+   - In and out of code documentation helps reduce the ramp-up time of new developers.
+    - This reduces the manual teaching of the system structure
+   - A consistant build environment (using vagrant/vm's) gives all dev's consistant prepared build environments
+   - The definition of consistant interfaces between programing modules decreases inter-partition communication
+
+   - Adding men to a late project isnt a silver bullet to delayed projects.
