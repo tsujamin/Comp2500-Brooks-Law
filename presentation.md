@@ -69,13 +69,29 @@ _"Nine women can't make a baby in one month." - Fred Brooks_
 ![Oops][train_wreck]
 
 # Communication overheads
- - Programing is social
+ - Tasks which can be partitioned require communication.
+ - As the number of partitions/developers increases communication begins to dominate the development effort.
+ - Communication effort can be approximated as n(n-1)/2
 
+_"Three workers require three times as much pairwise intercommunication as two; four require six times as much as two." - Fred Brooks_
+
+
+# Brooks' Example
+![Complex Intercommunications][communications_scale]
 
 # Solutions
- - Document/OO/Interfaces
-  - docs help but system level understanding difficult
-  - Only solves problem ad module level
+ - In source documentation helps comprehension of code
+ - Project documentation covering management and structure decreases lead time
+ - Consistant build environments.
+ - Can help decrease ramp-up time of added persons but cannot remove it.
+
+----------------
+
+ - Consistant interfaces to implementation reduces communication requirement
+ - Adding persons to support roles (documentation/quality assurance) can be added with reduced ramp-up time
+ - There is no silver bullet.
+
+ _""More software projects have gone awry for lack of calendar time than for all other causes combined." - Fred Brooks_
 
 
 #References
@@ -94,4 +110,4 @@ _"Nine women can't make a baby in one month." - Fred Brooks_
 [milestones_delay]: images/delay.png
 [milestones_result]: images/result.png
 [train_wreck]: http://redpenofdoomdotcom.files.wordpress.com/2011/02/train-wreck.jpg
-
+[communications_scale]: images/complex-interaction.png

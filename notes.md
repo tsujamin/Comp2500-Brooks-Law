@@ -1,4 +1,4 @@
-# Fred Broks
+# Fred brooks
  - Ph.D Student of Howard Aiken (1953)
   - Conceptual designer of the Harvard Mark 1
   - Used by John von Neumann as part of the Manhatten project.
@@ -75,3 +75,9 @@
    - One month ramp-up
    - Milestone B missed
    - Could have expected all stages delayed (18 mm left, add 6 men, still problem)
+
+   # Communication overheads
+    - As a project is partitioned into seperate tasks, teams must communicate between each other.
+    - As the number of tasks and members in each task increases, complex intercommunication begins to dominate development time
+    - Conferences between groups of stakeholders become a nightmare!
+    - Can counteract division of work or addition of persons (diagram)
