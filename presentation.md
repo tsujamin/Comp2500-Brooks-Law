@@ -32,25 +32,25 @@ _"Adding manpower to a late project makes it later" - Fred Brooks_
 
 ----------------
 
- - Just because your job will take _"6 person months"_ doesnt mean it will take 3 people 2 months.
+ - Just because your job will take _"6 person months"_ doesn't mean it will take 3 people 2 months.
 
 _"Nine women can't make a baby in one month." - Fred Brooks_
 
 # Causes
  - Ramp-Up time
- - Communitcation overheads
+ - Communication overheads
 
 
 # Ramp-up time
  - Jumping into an unfamiliar project is difficult.
  - Must learn structure, management, build process and style.
- - The sudden addition of multiple persons incures a training or ramp-up time
+ - The sudden addition of multiple persons incurs a training or ramp-up time
 
 
 # Example: HipHop-VM
  - Build process: 2 days
  - Find relevant code: 3 days
- - Understand relvant code: 1 week
+ - Understand relevant code: 1 week
  - First working modification: 4 weeks into project
 
 # Brooks' Example:
@@ -82,12 +82,12 @@ _"Three workers require three times as much pairwise intercommunication as two; 
 # Solutions
  - In source documentation helps comprehension of code
  - Project documentation covering management and structure decreases lead time
- - Consistant build environments.
+ - Consistent build environments.
  - Can help decrease ramp-up time of added persons but cannot remove it.
 
 ----------------
 
- - Consistant interfaces to implementation reduces communication requirement
+ - Consistent interfaces to implementation reduces communication requirement
  - Adding persons to support roles (documentation/quality assurance) can be added with reduced ramp-up time
  - There is no silver bullet.
 
